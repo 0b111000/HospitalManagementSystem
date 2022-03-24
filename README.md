@@ -15,6 +15,9 @@
 
 1.  [Git](https://git-scm.com/downloads).
 2.  [Node & npm](https://nodejs.org/en/download/) _(version 12 or greater)_.
+3.  MongoDB
+4.  MySQL
+5.  Jest
 
 ### Directory Structure
 
