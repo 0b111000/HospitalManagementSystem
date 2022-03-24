@@ -22,6 +22,7 @@
 ### Directory Structure
 
 ```
+backend:
 ├── REST
 │   ├── bill
 │   │   ├── controllers
