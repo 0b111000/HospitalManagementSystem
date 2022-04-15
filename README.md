@@ -11,6 +11,11 @@
 - [x]  Done Integration and Unit Testing  
 - [x]  API Documentation
 
+We have built a resilient, highly scalable hospital management system (HMS) that would work for individual and multi-chain hospitals.
+We completed the implementation by working on three broad and significant modules for the patients, doctors, and hospitals. We have also catered to the
+needs of pharmacies and other hospital sections such as accounts and inventory management. Using a microservice-based architecture and with appropriate
+technology decisions for designing databases, linking and storing sensitive data, and reliable deployment, we have ensured that our application is suitable for large-scale usage.
+
 ### Prerequisites
 
 1.  [Git](https://git-scm.com/downloads).
